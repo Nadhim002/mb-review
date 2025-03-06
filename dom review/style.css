@@ -1,0 +1,26 @@
+.comment-adder-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center ;
+}
+
+.comment{
+    border: 1px solid yellow;
+    position: relative ;
+    display : flex ; 
+    flex-direction: column ;
+    gap: 10px ;
+    
+
+}
+
+.comment-functions{
+    display: flex ;
+    padding: 5px ;
+    gap: 10px ;
+}
+
+button{
+    padding: 5px 10px ;
+}
